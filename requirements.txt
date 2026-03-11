@@ -1,0 +1,2 @@
+# CyberScan requirements
+python>=3.8
